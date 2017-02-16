@@ -1,2 +1,2 @@
-@@".global/global.sql";
+@@"%WORKSPACE%/global/global.sql";
 EXIT;
