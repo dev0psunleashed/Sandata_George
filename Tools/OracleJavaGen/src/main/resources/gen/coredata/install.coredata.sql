@@ -1,2 +1,2 @@
-@@"$workspace/global/global.sql";
+@"global/global.sql";
 EXIT;
