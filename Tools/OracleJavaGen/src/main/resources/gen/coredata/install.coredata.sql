@@ -1,2 +1,2 @@
-@@"D:\Sandata_GeorgePOC\Tools\OracleJavaGen\src\main\resources\gen\coredata\global\global.sql";
+@@".\global\global.sql";
 EXIT;
